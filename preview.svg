@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-label="Global Mapper Pro preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#01579b"/>
+      <stop offset="100%" stop-color="#0277bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="420" rx="18" fill="url(#bg)"/>
+  <path d="M0,280 C140,220 280,340 420,280 S700,220 860,280 L860,420 L0,420 Z" fill="#4fc3f7" opacity="0.35"/><path d="M0,300 C160,240 320,360 480,300 S760,240 860,300 L860,420 L0,420 Z" fill="#0277bd" opacity="0.25"/>
+  <rect x="36" y="36" width="420" height="6" rx="3" fill="#e1f5fe" opacity="0.35"/>
+  <text x="48" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Global Mapper Pro</text>
+  <text x="48" y="168" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" opacity="0.85">GIS &amp; terrain analysis</text>
+  <rect x="48" y="200" width="260" height="4" rx="2" fill="#e1f5fe" opacity="0.3"/>
+  <rect x="48" y="220" width="200" height="4" rx="2" fill="#e1f5fe" opacity="0.2"/>
+  <rect x="48" y="240" width="320" height="4" rx="2" fill="#e1f5fe" opacity="0.15"/>
+</svg>
